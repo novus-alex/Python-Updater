@@ -1,4 +1,4 @@
-# Making a python module to update a file with an url to download the update file
+# Python-Updater
 
 import requests
 import shutil
